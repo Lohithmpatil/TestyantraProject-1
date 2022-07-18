@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56" started-at="2022-07-14T11:19:34 IST" finished-at="2022-07-14T11:19:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56" started-at="2022-07-14T11:19:34 IST" finished-at="2022-07-14T11:19:34 IST">
+      <class name="com.crm.campaign.CreateCampaign">
+        <test-method status="PASS" signature="campaignName()[pri:0, instance:com.crm.campaign.CreateCampaign@5f282abb]" name="campaignName" duration-ms="6" started-at="2022-07-14T11:19:34 IST" finished-at="2022-07-14T11:19:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaignName -->
+        <test-method status="PASS" signature="doneAndDusted()[pri:0, instance:com.crm.campaign.CreateCampaign@5f282abb]" name="doneAndDusted" duration-ms="1" started-at="2022-07-14T11:19:34 IST" finished-at="2022-07-14T11:19:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doneAndDusted -->
+      </class> <!-- com.crm.campaign.CreateCampaign -->
+      <class name="com.crm.campaign.done_and_ok">
+        <test-method status="PASS" signature="ok()[pri:0, instance:com.crm.campaign.done_and_ok@2833cc44]" name="ok" duration-ms="0" started-at="2022-07-14T11:19:34 IST" finished-at="2022-07-14T11:19:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ok -->
+      </class> <!-- com.crm.campaign.done_and_ok -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
